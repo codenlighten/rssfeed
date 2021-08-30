@@ -1,6 +1,6 @@
 # cacheUrl: https://codenlighten.github.io/rssfeed/cache.json
 sources:
   - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
-  - href: https://bitcoinassociation.com
+  - href: https://bitcoinassociation.net
   - href: https://www.smashingmagazine.com/feed/
   - href: https://www.freecodecamp.org/news/rss/
